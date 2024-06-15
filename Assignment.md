@@ -109,8 +109,5 @@ Maintenance is essential because it prolongs the life of software, ensures it re
 Software engineers shold adhere to ethical standards by developing softwares that benefits users without causing harm. Also, transparency in algortihm and sat usage must be maintained.
 
 References: 
-https://www.geeksforgeeks.org/version-control-systems/
-https://en.wikipedia.org/wiki/Requirements_engineering
-https://www.techtarget.com/searchsoftwarequality/tip/5-examples-of-ethical-issues-in-software-development
 https://www.bingwiki.com/wiki/Engineering_Model
 Co-pilot
